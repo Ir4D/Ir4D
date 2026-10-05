@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Hi, I'm Irina</h1>
-  <h2>Frontend Developer</h2>
+  <h2>Frontend Developer · React · TypeScript</h2>
   <div>
     <a href="https://ir4d.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>&nbsp;
     <a href="https://www.linkedin.com/in/irina-dedova/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
@@ -14,9 +14,10 @@
 ### 🙋‍♀️ About Me
 
 - Spent 5+ years in fintech making sure money moved correctly. Now I make sure pixels do.
-- Building UIs with React & TypeScript - clean code, pixel-perfect layouts, responsive design
-- Always learning · MSc in Information Systems
-- Fluent in Russian, English & Greek · Italian is my current side project
+- Building responsive web interfaces with React and TypeScript
+- Working with REST APIs, headless CMS, and modern frontend tooling
+- MSc in Information Systems
+- Russian, English & Greek · Italian is my current side project
 
 ---
 
